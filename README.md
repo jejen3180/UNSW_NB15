@@ -8,7 +8,7 @@ Proyek ini merupakan implementasi sistem deteksi intrusi jaringan (NIDS) berbasi
 
 - **Nama**: UNSW-NB15
 - **Sumber**: [Australian Centre for Cyber Security (ACCS)](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
-- **Kelas serangan**: 10 jenis (Exploits, Fuzzers, Reconnaissance, etc.)
+- **Kelas serangan**: 10 jenis (Analysis, Backdoor, DoS, Exploits, Fuzzers, Generic, Normal, Reconnaissance, Shellcode, Worms.)
 - **Ukuran**: 257673 rows × 45 columns
 
 ---
