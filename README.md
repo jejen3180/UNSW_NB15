@@ -21,6 +21,7 @@ Notebook `EDA_UNSW-NB15_Multiclass.ipynb` mencakup:
 - Visualisasi fitur penting
 - Korelasi fitur dan heatmap
 - Penanganan imbalance data (jika diperlukan)
+- Comparison model
 
 ---
 
